@@ -5,3 +5,5 @@ Changes made in remote repo
 
 local
 
+learm=ning git fetch
+
